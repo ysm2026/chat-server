@@ -1,7 +1,10 @@
 build/
 cmake-build-*/
+*.exe
 *.swp
 *.swo
 *~
 .DS_Store
 Thumbs.db
+.qtcreator/
+test.cpp
