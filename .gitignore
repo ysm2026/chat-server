@@ -1,0 +1,7 @@
+build/
+cmake-build-*/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
